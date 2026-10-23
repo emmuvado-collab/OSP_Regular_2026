@@ -85,7 +85,6 @@ John Smith, 123458           ← missing NO and DEPARTMENT
 | Add multiple rows | Add exactly ONE row |
 | Commit directly to `main` | Always use a new branch + pull request |
 |4, EMMANUEL MORRIS ABEL, 22-CCS-034, Computer science|
-|4, EMMANUEL MORRIS ABEL,22-CCS-034, Computer science |
 
 
 
